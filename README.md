@@ -46,4 +46,4 @@ It's aimed at everyday users as much as power users.
 Grab the latest release from the download link above.
 
 **Do I need anything else installed?**
-No extra dependencies — download and run.               
+No extra dependencies — download and run.                
